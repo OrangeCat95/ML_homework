@@ -1,2 +1,3 @@
 # ML_homework
-online course machine learning code
+This is a set of online course machine learning homework code in Couseara.
+Thank for Ng Andrew providing this wonderful course.
